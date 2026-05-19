@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-20 00:38 IR
+- 🗜️ [ZIT feet.safetensors.part1.rar](https://github.com/imPIXXEL/panelRAR/raw/main/dl/ZIT%20feet.safetensors.part1.rar) `95.0MB`
+
+- 🗜️ [ZIT feet.safetensors.part2.rar](https://github.com/imPIXXEL/panelRAR/raw/main/dl/ZIT%20feet.safetensors.part2.rar) `27.9MB`
+
+---
+
+
 ### 📅 2026-05-19 23:46 IR
 - 🗜️ [body from below.safetensors.part1.rar](https://github.com/imPIXXEL/panelRAR/raw/main/dl/body%20from%20below.safetensors.part1.rar) `95.0MB`
 
