@@ -2,6 +2,14 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-19 20:41 IR
+- 🗜️ [CharacterDesign-IZT-V1.safetensors.part1.rar](https://github.com/imPIXXEL/panelRAR/raw/main/dl/CharacterDesign-IZT-V1.safetensors.part1.rar) `95.0MB`
+
+- 🗜️ [CharacterDesign-IZT-V1.safetensors.part2.rar](https://github.com/imPIXXEL/panelRAR/raw/main/dl/CharacterDesign-IZT-V1.safetensors.part2.rar) `54.6MB`
+
+---
+
+
 ### 📅 2026-05-19 14:15 IR
 - 🗜️ [NSFW_master_ZIT_000017532.safetensors.part1.rar](https://github.com/imPIXXEL/panelRAR/raw/main/dl/NSFW_master_ZIT_000017532.safetensors.part1.rar) `95.0MB`
 
